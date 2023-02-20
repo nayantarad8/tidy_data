@@ -1,0 +1,27 @@
+{
+    "id": "BBC54414",
+    "path": "~/Desktop/tidy_data/tidy_stuff.R",
+    "project_path": "tidy_stuff.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1676309045759.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "67,0",
+        "scrollLine": "57"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676310786,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676913209971,
+    "read_only": false,
+    "read_only_alternatives": []
+}
